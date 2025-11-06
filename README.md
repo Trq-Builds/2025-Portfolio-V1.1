@@ -2,16 +2,20 @@
 
 [`🧰`︲Outils et ressources utilisées.](#outils-ressources)
 
-
-
+---
 
 ---
 
+---
 
+<a id="outils-et-ressources"></a>
+## `🧰`︲Outils et Ressources utilisés pour la création de cette documentation.
+
+---
 
 > [!TIP]
 > Vous trouverez ici la liste de tous les outils, ressources et services utilisés pour la création de ce Portfolio.
-> Les liens correspondants sont accessibles en cliquant sur l’emoji `  🌐  ` .
+> Les liens correspondants sont accessibles en cliquant sur l’emoji :   `  🌐  ` .
 
 ---
 
