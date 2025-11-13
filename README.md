@@ -10,7 +10,7 @@
 >
 > `🔸`︲**Source :** https://github.com/codewithsadee/vcard-personal-portfolio (MERCI INFINIMENT)
 >
-> `🌐`︲**Lien :**  
+> `🌐`︲**Lien :** https://tariq-laab.netlify.app/
 
 ---
 
