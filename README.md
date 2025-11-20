@@ -8,11 +8,11 @@
 
 - `👤`︲**Auteur :** *Trq-Builds*
 
-- `🔸`︲**Statut :** **SUSPENDU** (Reherche de Solutions en cours...)
+- `🟧`︲**Statut :** **SUSPENDU** (Reherche de Solutions en cours...)
 
-- `🔸`︲**Source/Fork :** https://github.com/codewithsadee/vcard-personal-portfolio
+- `🟡`︲**Source/Fork :** https://github.com/codewithsadee/vcard-personal-portfolio
 
-- `🌐`︲**Lien :** https://tariq-laab.netlify.app (SUSPENDU)
+- `🌐`︲**Lien :** https://tariq-laab.netlify.app (OFF)
 
 ---
 
@@ -67,13 +67,14 @@ Aucune dépendance, aucun build : le site est **100 % statique** et prêt à l�
 
 ---
 
-- `🌐`︲**Source: codewithsadee/vcard-personal-portfolio** [`🌐`](https://github.com/codewithsadee/vcard-personal-portfolio)
+- `🌐`︲**Source:** [codewithsadee/vcard-personal-portfolio](https://github.com/codewithsadee/vcard-personal-portfolio)
 
 * `📄` **︲Documents d’annexes fournis**
 * `🤖` **︲GPT-5** ︲[`🌐`](https://chatgpt.com/)
 * `🤖` **︲ClaudeAI** ︲[`🌐`](https://claude.ai/)
-* `🌐` **︲VSCodium** ︲[`🌐`](https://vscodium.com/)
+* `🌐` **︲VisualStudioCode(IDE)** ︲[`🌐`](https://code.visualstudio.com/)
 * `🌐` **︲Netlifly** ︲[`🌐`](https://app.netlify.com/)
+* `😺` **︲GitHub Dekstop** ︲[`🌐`](https://github.com/apps/desktop)
 
   
 --- 
