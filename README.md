@@ -8,9 +8,9 @@
 
 - `👤`︲**Auteur :** *Trq-Builds*
 
-- `🔸`︲**Statut :** **SUSPENDU** (Reherche de Solutions en cours...)
+- `🟩`︲**Statut :** **SUSPENDU** (Reherche de Solutions en cours...)
 
-- `🔸`︲**Source/Fork :** https://github.com/codewithsadee/vcard-personal-portfolio
+- `🟡`︲**Source/Fork :** https://github.com/codewithsadee/vcard-personal-portfolio
 
 - `🌐`︲**Lien :** https://tariq-laab.netlify.app (SUSPENDU)
 
