@@ -12,7 +12,7 @@
 
 - `🟡`︲**Source/Fork :** https://github.com/codewithsadee/vcard-personal-portfolio
 
-- `🌐`︲**Lien :** https://tariq-laab.netlify.app (SUSPENDU)
+- `🌐`︲**Lien :** https://tariq-laab.netlify.app (OFF)
 
 ---
 
