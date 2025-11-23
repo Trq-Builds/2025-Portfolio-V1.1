@@ -47,7 +47,7 @@ Arborescence ASCII :
 
 ---
 
-**Technique :**
+`🛢️`︲**Technique :**
 
 * `🧱` `📐` **HTML5 sémantique** avec balises structurantes (`<aside>`, `<article>`, `<section>`).
 * `🎨` `🧩` **CSS3 pur** avec variables personnalisées, Flexbox et Grid Layout.
@@ -55,12 +55,12 @@ Arborescence ASCII :
 * `🌙` `🎛️` **Thème sombre fixe** avec palette de couleurs cohérente.
 * `⚡` `📜` **JavaScript vanilla** pour navigation et filtres (sans dépendances).
 
-**Architecture :**
+`⚡`︲**Architecture :**
 - Fichier CSS **unique** (non modularisé) intégrant responsive et animations.
 - Navigation par onglets avec système de filtrage pour le portfolio.
 - Hébergement prévu sur [Netlify](https://www.netlify.com/) avec déploiement automatique.
 
-**Limitations actuelles :**
+`🚧`︲**Limitations actuelles :**
 - Section Portfolio vide (en attente de projets...)
 - Thème sombre.
 
