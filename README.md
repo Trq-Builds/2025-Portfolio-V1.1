@@ -49,11 +49,11 @@ Arborescence ASCII :
 
 `🛢️`︲**Technique :**
 
-* `🧱` `📐` **HTML5 sémantique** avec balises structurantes (`<aside>`, `<article>`, `<section>`).
-* `🎨` `🧩` **CSS3 pur** avec variables personnalisées, Flexbox et Grid Layout.
-* `📱` `💻` `🖥️` **Design responsive** via media queries (4 breakpoints : 580px, 768px, 1024px, 1250px).
-* `🌙` `🎛️` **Thème sombre fixe** avec palette de couleurs cohérente.
-* `⚡` `📜` **JavaScript vanilla** pour navigation et filtres (sans dépendances).
+* `📐` ︲**HTML5 sémantique** avec balises structurantes (`<aside>`, `<article>`, `<section>`).
+* `🎨` ︲**CSS3 pur** avec variables personnalisées, Flexbox et Grid Layout.
+* `📱` ︲ **Design responsive** via media queries (4 breakpoints : 580px, 768px, 1024px, 1250px).
+* `🌙` ︲**Thème sombre fixe** avec palette de couleurs cohérente.
+* `📜` ︲**JavaScript vanilla** pour navigation et filtres (sans dépendances).
 
 `⚡`︲**Architecture :**
 - Fichier CSS **unique** (non modularisé) intégrant responsive et animations.
